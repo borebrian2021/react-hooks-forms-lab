@@ -13,5 +13,4 @@ function Filter({ onCategoryChange }) {
     </div>
   );
 }
-
 export default Filter;
